@@ -4,7 +4,7 @@
 
 # Deciphar managers' non-responses in earnings calls
 
-**Paper: https://github.com/Qingwen212/Qingwen212.github.io/tree/main/pub
+**Paper: pub/Deciphering non-responses in earnings calls with Chat-GPT.pdf
 
 **Sample Data: https://github.com/Qingwen212/Qingwen212.github.io/blob/main/Non_responses/sp500.ipynb
 
