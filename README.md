@@ -9,3 +9,13 @@
 **Sample Data: https://github.com/Qingwen212/Qingwen212.github.io/blob/main/Non_responses/sp500.ipynb
 
 **Codes: https://github.com/Qingwen212/Qingwen212.github.io/tree/main/Non_responses
+
+
+
+# Narrative R&D disclosures (Chinese listed firms)
+
+**Relevant Papers: https://github.com/Qingwen212/Qingwen212.github.io/tree/main/pub
+
+**Sample data: 
+
+**Codes: https://github.com/Qingwen212/Qingwen212.github.io/tree/main/Nar
