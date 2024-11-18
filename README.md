@@ -4,7 +4,7 @@
 
 # Deciphar managers' non-responses in earnings calls
 
-**Paper: 
+**Paper: https://github.com/Qingwen212/Qingwen212.github.io/tree/main/pub
 
 **Sample Data: https://github.com/Qingwen212/Qingwen212.github.io/blob/main/Non_responses/sp500.ipynb
 
