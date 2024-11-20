@@ -1,0 +1,4 @@
+
+refinement: original file
+refinement-2: to refine similar topics based on the top_topic_NUMBER.md file with gpt model
+refinement-3: to update top_topic_NUMBER.jsonl file into refined_top_NUMBER.jsonl without gpt model 
